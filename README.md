@@ -1,4 +1,4 @@
-# Yes Bank Stock Close Price Prediction
+# Yes Bank Close Stock Price Prediction
 
 This project aims to predict the closing stock prices of Yes Bank using various Machine Learning models. The key steps included data collection, exploratory data analysis (EDA), feature extraction, model training, evaluation, and deployment.
 
@@ -28,8 +28,8 @@ The dataset used in this project is available in the `data` directory of the rep
 
 1. Clone the repository:
    ```
-   git clone https://github.com/Chandra731/yes_bank_stock_close_price_prediction.git
-   cd yes_bank_stock_close_price_prediction
+   git clone https://github.com/Chandra731/yes_bank_closing_stock_price_prediction.git
+   cd yes_bank_closing_stock_price_prediction
    ```
 
 2. Install the required packages:
